@@ -42,7 +42,7 @@ La parte `--save` indica a npm di salvare questo pacchetto nel nostro **package.
 facile installarlo dopo, senza ulteriori complicanze.  
 
 ### Step 3: creare il bot Telegram
-Su Telegram, contattate **@botfather** e usate il comando `/newbot` per creare un nuovo bot.
+Su Telegram, contattate **@botfather** e usate il comando `/newbot` per creare un nuovo bot.  
 Chiamatelo come preferite.  
 
 ### Step 4: scriviamo un po di codice!  
